@@ -1,4 +1,81 @@
 {
+  "stickers" : [
+    {
+      "filename" : "FaceUpBlackAndWhite1.sticker"
+    },
+    {
+      "filename" : "FaceUpBlackAndWhite2.sticker"
+    },
+    {
+      "filename" : "FaceUpBlackAndWhite3.sticker"
+    },
+    {
+      "filename" : "FaceUpBlackAndWhite4.sticker"
+    },
+    {
+      "filename" : "FaceUpBlackAndWhite5.sticker"
+    },
+    {
+      "filename" : "FaceUpBlackAndWhite6.sticker"
+    },
+    {
+      "filename" : "FaceUpBlackAndWhite7.sticker"
+    },
+    {
+      "filename" : "FaceUpBlackAndWhite8.sticker"
+    },
+    {
+      "filename" : "FaceUpBlackAndWhite9.sticker"
+    },
+    {
+      "filename" : "FaceUpBlackAndWhite10.sticker"
+    },
+    {
+      "filename" : "FaceUpBlackAndWhite11.sticker"
+    },
+    {
+      "filename" : "FaceUpBlackAndWhite12.sticker"
+    },
+    {
+      "filename" : "FaceUpBlackAndWhite13.sticker"
+    },
+    {
+      "filename" : "FaceUpBlackAndWhite14.sticker"
+    },
+    {
+      "filename" : "FaceUpBlackAndWhite15.sticker"
+    },
+    {
+      "filename" : "FaceUpBlackAndWhite16.sticker"
+    },
+    {
+      "filename" : "FaceUpBlackAndWhite17.sticker"
+    },
+    {
+      "filename" : "FaceUpBlackAndWhite18.sticker"
+    },
+    {
+      "filename" : "FaceUpBlackAndWhite19.sticker"
+    },
+    {
+      "filename" : "FaceUpBlackAndWhite20.sticker"
+    },
+    {
+      "filename" : "FaceUpBlackAndWhite21.sticker"
+    },
+    {
+      "filename" : "FaceUpBlackAndWhite22.sticker"
+    },
+    {
+      "filename" : "FaceUpBlackAndWhite23.sticker"
+    },
+    {
+      "filename" : "FaceUpBlackAndWhite24.sticker"
+    },
+    {
+      "filename" : "FaceUpBlackAndWhite25.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"

@@ -267,7 +267,7 @@
 		3284BD721F9BB90E005E1A0E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon2";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 3ELD98ZG8L;
 				INFOPLIST_FILE = "FaceUp StickerPackExtension/Info.plist";
@@ -281,7 +281,7 @@
 		3284BD731F9BB90E005E1A0E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon2";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 3ELD98ZG8L;
 				INFOPLIST_FILE = "FaceUp StickerPackExtension/Info.plist";
@@ -295,7 +295,7 @@
 		3284BD761F9BB90E005E1A0E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon2";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 3ELD98ZG8L;
 				INFOPLIST_FILE = FaceUp/Info.plist;
@@ -308,7 +308,7 @@
 		3284BD771F9BB90E005E1A0E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon2";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 3ELD98ZG8L;
 				INFOPLIST_FILE = FaceUp/Info.plist;
